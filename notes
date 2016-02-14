@@ -1,0 +1,6 @@
+Flytta LDO till vänster
+Flytta USR1/2 till höger så de inte skyms av wifi
+Ta bort jordplan under antennen
+Flytta en av GPIO till Interrupt-pinne
+Möjlighet att mäta batterispänning
+
